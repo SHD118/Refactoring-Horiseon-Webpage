@@ -41,9 +41,9 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
-*/ a {
+a {
   color: #ffffff;
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 p {
