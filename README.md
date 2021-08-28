@@ -39,14 +39,14 @@
 ```
 Powerpoint Link: https://1drv.ms/p/s!AgwXxffey8u1gmz1j7gzqoeeB9nj?e=gc4ZeR
 ```
-![](Assets/images/img-1.PNG)
-![](Assets/images/img-2.PNG)
-![](Assets/images/img-3.PNG)
-![](Assets/images/img-4.PNG)
-![](Assets/images/img-5.PNG)
-![](Assets/images/img-6.PNG)
-![](Assets/images/img-8.PNG)
-![](Assets/images/img-9.PNG)
+![]assets/images/img-1.PNG)
+![](assets/images/img-2.PNG)
+![](assets/images/img-3.PNG)
+![](assets/images/img-4.PNG)
+![](assets/images/img-5.PNG)
+![](assets/images/img-6.PNG)
+![](assets/images/img-8.PNG)
+![](assets/images/img-9.PNG)
 
 ## Help
 
