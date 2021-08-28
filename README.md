@@ -73,7 +73,7 @@ This project is free use
 
 [Live Link](https://shd118.github.io/Refactoring-Horiseon-Webpage/)
 
-[Github Link](https://github.com/SHD118/Homework-1/blob/main/README.md)
+[Github Link](https://github.com/SHD118/Refactoring-Horiseon-Webpage)
 
 
 
